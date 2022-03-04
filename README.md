@@ -9,9 +9,11 @@ bello, ho aggiunto riga di testo
 5. ultima voce
 
 Un'altra riga a caso
-Qui dovrebbe andare a capo, ma saràa su stessa riga 
+Qui dovrebbe andare a capo, ma sarà su stessa riga
 Non ci va perchè i paragrafi si separano con riga vuota
+
 
 così
 
 ecco
+miao
